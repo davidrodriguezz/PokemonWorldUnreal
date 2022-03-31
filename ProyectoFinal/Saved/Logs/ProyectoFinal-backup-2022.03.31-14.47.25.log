@@ -1,0 +1,1485 @@
+﻿Log file open, 03/31/22 15:27:17
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ProyectoFinal
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.221297
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.03.31-13.27.17:727][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.03.31-13.27.17:727][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.03.31-13.27.17:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2022.03.31-13.27.17:727][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.03.31-13.27.17:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2022.03.31-13.27.17:727][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2022.03.31-13.27.17:727][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.03.31-13.27.17:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2022.03.31-13.27.17:728][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2022.03.31-13.27.17:735][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.31-13.27.17:735][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.31-13.27.17:736][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.31-13.27.17:736][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.03.31-13.27.17:736][  0]LogHAL: Display: Platform has ~ 8 GB [8436617216 / 8589934592 / 8], which maps to Default [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.03.31-13.27.17:736][  0]LogInit: Going up to parent DeviceProfile []
+[2022.03.31-13.27.17:736][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.03.31-13.27.17:736][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:736][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Scalability.ini]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.03.31-13.27.17:737][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.03.31-13.27.17:738][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.03.31-13.27.17:738][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.03.31-13.27.17:738][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.03.31-13.27.17:738][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Engine.ini]
+[2022.03.31-13.27.17:738][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Config/Windows/Editor.ini]
+[2022.03.31-13.27.17:738][  0]LogInit: Computer: DESKTOP-TTBN1MU
+[2022.03.31-13.27.17:738][  0]LogInit: User: MASTER
+[2022.03.31-13.27.17:738][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.03.31-13.27.17:738][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.03.31-13.27.17:738][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2022.03.31-13.27.17:738][  0]LogMemory: Platform Memory Stats for Windows
+[2022.03.31-13.27.17:738][  0]LogMemory: Process Physical Memory: 137.52 MB used, 137.52 MB peak
+[2022.03.31-13.27.17:738][  0]LogMemory: Process Virtual Memory: 110.33 MB used, 110.33 MB peak
+[2022.03.31-13.27.17:738][  0]LogMemory: Physical Memory: 5882.32 MB used,  2163.47 MB free, 8045.79 MB total
+[2022.03.31-13.27.17:738][  0]LogMemory: Virtual Memory: 134209608.00 MB used,  8116.85 MB free, 134217728.00 MB total
+[2022.03.31-13.27.17:742][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.03.31-13.27.17:759][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.03.31-13.27.17:759][  0]LogInit: Using OS detected language (es-ES).
+[2022.03.31-13.27.17:760][  0]LogInit: Using OS detected locale (es-ES).
+[2022.03.31-13.27.17:761][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2022.03.31-13.27.17:792][  0]LogInit: Setting process to per monitor DPI aware
+[2022.03.31-13.27.17:804][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-13.27.17:818][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.03.31-13.27.17:818][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.03.31-13.27.17:998][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.03.31-13.27.17:998][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.03.31-13.27.17:998][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.03.31-13.27.17:998][  0]LogD3D11RHI: D3D11 adapters:
+[2022.03.31-13.27.18:110][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2022.03.31-13.27.18:110][  0]LogD3D11RHI:       4018/0/4022 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.03.31-13.27.18:137][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.03.31-13.27.18:137][  0]LogD3D11RHI:       128/0/4022 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.03.31-13.27.18:140][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.03.31-13.27.18:140][  0]LogD3D11RHI:       0/0/4022 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.03.31-13.27.18:140][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.03.31-13.27.18:146][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.03.31-13.27.18:146][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8c (for the marketing name, search the web for "GPU Device Id")
+[2022.03.31-13.27.18:146][  0]LogWindows: EnumDisplayDevices:
+[2022.03.31-13.27.18:146][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2022.03.31-13.27.18:146][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.03.31-13.27.18:146][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.03.31-13.27.18:147][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.03.31-13.27.18:147][  0]LogWindows:    4. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.03.31-13.27.18:147][  0]LogWindows:    5. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.03.31-13.27.18:147][  0]LogWindows:    6. 'NVIDIA GeForce GTX 1050 Ti' (P:0 D:0)
+[2022.03.31-13.27.18:147][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:4 
+[2022.03.31-13.27.18:147][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2022.03.31-13.27.18:147][  0]LogD3D11RHI:   Driver Version: 462.30 (internal:27.21.14.6230, unified:462.30)
+[2022.03.31-13.27.18:147][  0]LogD3D11RHI:      Driver Date: 4-5-2021
+[2022.03.31-13.27.18:147][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2022.03.31-13.27.18:224][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.03.31-13.27.18:224][  0]LogD3D11RHI: Async texture creation enabled
+[2022.03.31-13.27.18:224][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.03.31-13.27.18:240][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.03.31-13.27.18:242][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.03.31-13.27.18:505][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.03.31-13.27.18:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.03.31-13.27.18:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.03.31-13.27.18:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.03.31-13.27.18:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.03.31-13.27.18:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.03.31-13.27.18:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.03.31-13.27.18:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.03.31-13.27.18:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.03.31-13.27.18:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.03.31-13.27.18:524][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.03.31-13.27.18:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.03.31-13.27.18:542][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.03.31-13.27.18:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.03.31-13.27.18:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.03.31-13.27.18:566][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.03.31-13.27.18:573][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.03.31-13.27.18:580][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.03.31-13.27.18:588][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.03.31-13.27.18:595][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.03.31-13.27.18:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.03.31-13.27.18:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.03.31-13.27.18:622][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.03.31-13.27.18:629][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.03.31-13.27.18:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.03.31-13.27.18:643][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.03.31-13.27.18:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.03.31-13.27.18:656][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.03.31-13.27.18:664][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.03.31-13.27.18:673][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.03.31-13.27.18:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.03.31-13.27.18:690][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.03.31-13.27.18:690][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.03.31-13.27.18:696][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.03.31-13.27.18:748][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.03.31-13.27.18:749][  0]LogShaderCompilers: Guid format shader working directory is -25 characters bigger than the processId version (../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Intermediate/Shaders/WorkingDirectory/1576/).
+[2022.03.31-13.27.18:749][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/MASTER/AppData/Local/Temp/UnrealShaderWorkingDir/D21CA96D4E0BADAF1076CA8FB5590BBD/'.
+[2022.03.31-13.27.18:749][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.03.31-13.27.18:749][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.03.31-13.27.19:435][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.03.31-13.27.19:512][  0]LogDerivedDataCache: Loaded boot cache 0.08s 77MB C:/Users/MASTER/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.31-13.27.19:512][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/MASTER/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.03.31-13.27.19:512][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.03.31-13.27.19:512][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.03.31-13.27.19:512][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.31-13.27.19:512][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.03.31-13.27.19:524][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.03.31-13.27.19:524][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.03.31-13.27.19:524][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.03.31-13.27.19:531][  0]LogDerivedDataCache: Speed tests for C:/Users/MASTER/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.03.31-13.27.19:531][  0]LogDerivedDataCache: Display: Performance to C:/Users/MASTER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=1336.91MBs, RandomWriteSpeed=168.44MBs. Assigned SpeedClass 'Local'
+[2022.03.31-13.27.19:531][  0]LogDerivedDataCache: Using Local data cache path C:/Users/MASTER/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.03.31-13.27.19:531][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.03.31-13.27.19:531][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.03.31-13.27.19:580][  0]LogSlate: Using FreeType 2.10.0
+[2022.03.31-13.27.19:580][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.03.31-13.27.19:607][  0]LogAssetRegistry: FAssetRegistry took 0.0023 seconds to start up
+[2022.03.31-13.27.19:954][  0]LogInit: Selected Device Profile: [Windows]
+[2022.03.31-13.27.19:954][  0]LogInit: Active device profile: [00000224F4C0B200][00000224F65F6DC0 49] Windows
+[2022.03.31-13.27.19:954][  0]LogInit: Profiles: [00000224F4C0B200][00000224F65F6DC0 49] Windows, [00000224F4BC9000][00000224F65FEF40 49] WindowsNoEditor, [00000224F4C09000][00000224F66030C0 49] WindowsServer, [00000224F4BCAB00][00000224F6607240 49] WindowsClient, [00000224F4C0AA00][00000224F660B3C0 49] IOS, [00000224F4BC9800][00000224F6621540 49] iPadAir, [00000224F4C09700][00000224F65FB680 49] iPadAir2, [00000224F4B90600][00000224F66298C0 49] IPadPro, [00000224F4B90700][00000224F6625900 49] iPadAir3, [00000224F4C0A500][00000224F6631A80 49] iPadAir4, [00000224F4B93000][00000224F6635C00 49] iPadMini2, [00000224F4C09B00][00000224F66380C0 49] iPadMini3, [00000224F4B92000][00000224F663C240 49] iPadMini4, [00000224F4C0AB00][00000224F66403C0 49] iPadMini5, [00000224F4B83E00][00000224F6648680 49] iPhone6, [00000224F4B83F00][00000224F66446C0 49] iPodTouch6, [00000224F4BCBA00][00000224F6650980 49] iPhone7, [00000224F4B92900][00000224F664C9C0 49] iPodTouch7, [00000224F4B81300][00000224F6654B40 49] iPhone5S, [00000224F4B90900][00000224F6658CC0 49] iPhone6Plus, [00000224F4B82700][00000224F665CE40 49] iPhone6S, [00000224F4B90C00][00000224F6660FC0 49] iPhone6SPlus, [00000224F4B81A00][00000224F6665140 49] iPhone7Plus, [00000224F4B93200][00000224F66692C0 49] iPhoneSE, [00000224F4B83800][00000224F666D440 49] iPhone8, [00000224F4B92D00][00000224F66715C0 49] iPhone8Plus, [00000224F4B81900][00000224F662D700 49] iPhoneX, [00000224F4B90500][00000224F6675840 49] iPhoneXS, [00000224F4B83B00][00000224F6679980 49] iPhoneXSMax, [00000224F4B93A00][00000224F667DAC0 49] iPhoneXR, [00000224F4B81000][00000224F6685C40 49] iPhone11, [00000224F4B90D00][00000224F6688100 49] iPhone11Pro, [00000224F4B81D00][00000224F668C280 49] iPhone11ProMax, [00000224F4B90E00][00000224F6690400 49] iPhoneSE2, [00000224F4B80400][00000224F6694580 49] iPhone12Mini, [00000224F4B92B00][00000224F6698700 49] iPhone12, [00000224F4B81800][00000224F669C880 49] iPhone12Pro, [00000224F4B90100][00000224F66A0A00 49] iPhone12ProMax, [00000224F4B81B00][00000224F66A4B80 49] iPadPro105, [00000224F4B92400][00000224F66A8D00 49] iPadPro129, [00000224F4B81500][00000224F66ACE80 49] iPadPro97, [00000224F4B91C00][00000224F66B1000 49] iPadPro2_129, [00000224F4B81200][00000224F66B5180 49] iPad5, [00000224F4B92F00][00000224F66B9300 49] iPad6, [00000224F4B80100][00000224F66BD480 49] iPad7, [00000224F4B93900][00000224F66C1600 49] iPad8, [00000224F4B83400][00000224F6681740 49] iPadPro11, [00000224F4B90300][00000224F66C5880 49] iPadPro2_11, [00000224F4B80200][00000224F66C99C0 49] iPadPro3_129, [00000224F4B92800][00000224F66CDB00 49] iPadPro4_129, [00000224F4B82000][00000224F66D5C80 49] AppleTV, [00000224F4B90200][00000224F66D8140 49] AppleTV4K, [00000224F4B82E00][00000224F66DC2C0 49] TVOS, [00000224F4B93C00][00000224F66E0440 49] Mac, [00000224F4B80600][00000224F66E45C0 49] MacClient, [00000224F4B91A00][00000224F66E8740 49] MacNoEditor, [00000224F4B82400][00000224F66EC8C0 49] MacServer, [00000224F4B93700][00000224F66F0A40 49] Linux, [00000224F4C4CA00][00000224F66F4BC0 49] LinuxAArch64, [00000224F4BC8B00][00000224F66F8D40 49] LinuxNoEditor, [00000224F4C4D200][00000224F66FCEC0 49] LinuxAArch64NoEditor, [00000224F4BCAD00][00000224F6701040 49] LinuxClient, [00000224F4C4CC00][00000224F67051C0 49] LinuxAArch64Client, [00000224F4BC8300][00000224F6709340 49] LinuxServer, [00000224F4C4C100][00000224F670D4C0 49] LinuxAArch64Server, [00000224F4BCB300][00000224F6711640 49] Android, [00000224F4C4D100][00000224F67157C0 49] Android_Low, [00000224F4BCB900][00000224F66D1900 49] Android_Mid, [00000224F4C4D900][00000224F6719A40 49] Android_High, [00000224F4BCAA00][00000224F671DB80 49] Android_Default, [00000224F4C4C300][00000224F6725D00 49] Android_Adreno4xx, [00000224F4BC8F00][00000224F67281C0 49] Android_Adreno5xx_Low, [00000224F4C4C900][00000224F672C340 49] Android_Adreno5xx, [00000224F4BC9A00][00000224F67304C0 49] Android_Adreno6xx, [00000224F4B92600][00000224F6734640 49] Android_Adreno6xx_Vulkan, [00000224F4B81600][00000224F67387C0 49] Android_Mali_T6xx, [00000224F4B91900][00000224F673C940 49] Android_Mali_T7xx, [00000224F4B82100][00000224F6740AC0 49] Android_Mali_T8xx, [00000224F4B92300][00000224F6744C40 49] Android_Mali_G71, [00000224F4B80300][00000224F6748DC0 49] Android_Mali_G72, [00000224F4B91E00][00000224F674CF40 49] Android_Mali_G72_Vulkan, [00000224F4B80500][00000224F67510C0 49] Android_Mali_G76, [00000224F4B92500][00000224F6755240 49] Android_Mali_G76_Vulkan, [00000224F4B83100][00000224F67593C0 49] Android_Mali_G77, [00000224F4B91400][00000224F675D540 49] Android_Mali_G77_Vulkan, [00000224F4B82C00][00000224F67616C0 49] Android_Vulkan_SM5, [00000224F4B90A00][00000224F6765840 49] Android_PowerVR_G6xxx, [00000224F4B82900][00000224F6721980 49] Android_PowerVR_GT7xxx, [00000224F4B93600][00000224F6769AC0 49] Android_PowerVR_GE8xxx, [00000224F4B81100][00000224F676DC00 49] Android_PowerVR_GM9xxx, [00000224F4B93F00][00000224F67740C0 49] Android_PowerVR_GM9xxx_Vulkan, [00000224F4B82200][00000224F6778240 49] Android_TegraK1, [00000224F4B90800][00000224F677C3C0 49] Android_Unknown_Vulkan, [00000224F4B81E00][00000224F6780540 49] Lumin, [00000224F4B91800][00000224F67846C0 49] Lumin_Desktop, [00000224F4B83C00][00000224F6788840 49] HoloLens, 
+[2022.03.31-13.27.20:056][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.03.31-13.27.20:056][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.03.31-13.27.20:056][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.03.31-13.27.20:056][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.03.31-13.27.20:056][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.03.31-13.27.20:073][  0]LogNetVersion: ProyectoFinal 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3976999928)
+[2022.03.31-13.27.20:495][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.03.31-13.27.20:558][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.062098 seconds
+[2022.03.31-13.27.20:564][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.03.31-13.27.20:564][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.03.31-13.27.20:564][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.03.31-13.27.20:905][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.03.31-13.27.20:909][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.03.31-13.27.20:977][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.31-13.27.20:977][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.31-13.27.20:985][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.31-13.27.20:987][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.31-13.27.20:994][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.31-13.27.20:999][  0]LogUProjectInfo: Found projects:
+[2022.03.31-13.27.21:194][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.03.31-13.27.21:211][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.31-13.27.21:211][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.03.31-13.27.21:253][  0]LogCollectionManager: Loaded 0 collections in 0.001471 seconds
+[2022.03.31-13.27.21:265][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Collections/' took 0.00s
+[2022.03.31-13.27.21:265][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/Developers/MASTER/Collections/' took 0.00s
+[2022.03.31-13.27.21:265][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/Collections/' took 0.00s
+[2022.03.31-13.27.21:272][  0]LogOcInput: OculusInput pre-init called
+[2022.03.31-13.27.21:280][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.03.31-13.27.21:280][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.03.31-13.27.21:322][  0]LogEngine: Initializing Engine...
+[2022.03.31-13.27.21:388][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.03.31-13.27.21:388][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.03.31-13.27.21:390][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.03.31-13.27.21:531][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.03.31-13.27.21:538][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.03.31-13.27.21:571][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.03.31-13.27.21:580][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.03.31-13.27.21:580][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.03.31-13.27.21:581][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.03.31-13.27.21:581][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.03.31-13.27.21:581][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.03.31-13.27.21:581][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.03.31-13.27.21:581][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.03.31-13.27.21:581][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.03.31-13.27.21:581][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.03.31-13.27.21:581][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.03.31-13.27.21:582][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.03.31-13.27.21:582][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.03.31-13.27.21:596][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.31-13.27.21:596][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.03.31-13.27.21:651][  0]LogAudioMixer: Display: Using Audio Device Altavoces (Realtek(R) Audio)
+[2022.03.31-13.27.21:659][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.03.31-13.27.21:661][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.03.31-13.27.21:661][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.03.31-13.27.21:665][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.03.31-13.27.21:665][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.03.31-13.27.21:665][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.03.31-13.27.21:667][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.03.31-13.27.21:667][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.03.31-13.27.21:667][  0]LogInit: FAudioDevice initialized.
+[2022.03.31-13.27.21:667][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.03.31-13.27.21:667][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.03.31-13.27.21:821][  0]LogDerivedDataCache: Saved boot cache 0.15s 77MB C:/Users/MASTER/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.03.31-13.27.21:822][  0]LogInit: Texture streaming: Enabled
+[2022.03.31-13.27.21:845][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.03.31-13.27.21:851][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.03.31-13.27.21:852][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.03.31-13.27.21:854][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.03.31-13.27.21:906][  0]LogInit: Transaction tracking system initialized
+[2022.03.31-13.27.21:942][  0]BlueprintLog: New page: Cargar el editor
+[2022.03.31-13.27.22:026][  0]LocalizationService: Localization service is disabled
+[2022.03.31-13.27.22:049][  0]TimingProfiler: Initialize
+[2022.03.31-13.27.22:049][  0]TimingProfiler: OnSessionChanged
+[2022.03.31-13.27.22:049][  0]LoadingProfiler: Initialize
+[2022.03.31-13.27.22:049][  0]LoadingProfiler: OnSessionChanged
+[2022.03.31-13.27.22:049][  0]NetworkingProfiler: Initialize
+[2022.03.31-13.27.22:049][  0]NetworkingProfiler: OnSessionChanged
+[2022.03.31-13.27.22:049][  0]MemoryProfiler: Initialize
+[2022.03.31-13.27.22:049][  0]MemoryProfiler: OnSessionChanged
+[2022.03.31-13.27.22:182][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.03.31-13.27.56:173][  0]LogSlate: Window 'Low drive space warning' being destroyed
+[2022.03.31-13.27.56:175][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-13.27.56:222][  0]Message dialog closed, result: Ok, title: Low drive space warning, text: The following drive locations have limited free space.
+It is recommended that you free some space to avoid issues such as crashed and data loss due to files not being able to be written and saved.
+
+  3.889 MB Free 		 C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+ 				 The base engine directory. 
+
+  3.889 MB Free 		 C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/
+ 				 The project directory. 
+
+[2022.03.31-13.27.56:459][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.03.31-13.27.56:459][  0]LogCook: Display: Mobile HDR setting 1
+[2022.03.31-13.27.56:824][  0]LogFileCache: Scanning file cache for directory 'C:/Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/' took 0.02s
+[2022.03.31-13.27.57:201][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.03.31-13.27.57:207][  0]SourceControl: El control de código fuente está desactivado
+[2022.03.31-13.27.57:207][  0]LogUnrealEdMisc: Loading editor; pre map load, took 40.364
+[2022.03.31-13.27.57:207][  0]Cmd: MAP LOAD FILE="../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.31-13.27.57:223][  0]LightingResults: New page: Diseñar la iluminación
+[2022.03.31-13.27.57:224][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.27.57:224][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.27.57:224][  0]MapCheck: New page: Revisión del mapa
+[2022.03.31-13.27.57:224][  0]LightingResults: New page: Diseñar la iluminación
+[2022.03.31-13.27.57:245][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.03.31-13.27.58:193][  0]LogTexture: Display: Building textures: DeprecatedTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2022.03.31-13.27.58:327][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.03.31-13.27.58:329][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.03.31-13.27.58:355][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.31-13.27.58:375][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2022.03.31-13.27.58:375][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.31-13.27.58:377][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,481ms to complete.
+[2022.03.31-13.27.58:377][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 1.169
+[2022.03.31-13.27.58:379][  0]LogUnrealEdMisc: Total Editor Startup Time, took 41.536
+[2022.03.31-13.27.58:458][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.03.31-13.27.58:539][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-13.27.58:548][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-13.27.58:556][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-13.27.58:562][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.03.31-13.27.58:589][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0166 seconds. Added 3601 classes and 859 folders.
+[2022.03.31-13.27.58:595][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2022.03.31-13.27.58:598][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.31-13.27.58:598][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:598][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.31-13.27.58:598][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.03.31-13.27.58:599][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.31-13.27.58:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.31-13.27.58:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.03.31-13.27.58:601][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.03.31-13.27.58:601][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:601][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.03.31-13.27.58:602][  0]LogPakFile: OnPakFileMounted2Time == 0.000052
+[2022.03.31-13.27.58:603][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.31-13.27.58:603][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:603][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.31-13.27.58:603][  0]LogPakFile: OnPakFileMounted2Time == 0.000065
+[2022.03.31-13.27.58:605][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.31-13.27.58:605][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:605][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.31-13.27.58:605][  0]LogPakFile: OnPakFileMounted2Time == 0.000083
+[2022.03.31-13.27.58:607][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.31-13.27.58:607][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:607][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.31-13.27.58:607][  0]LogPakFile: OnPakFileMounted2Time == 0.000090
+[2022.03.31-13.27.58:609][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.31-13.27.58:609][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:609][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.31-13.27.58:609][  0]LogPakFile: OnPakFileMounted2Time == 0.000099
+[2022.03.31-13.27.58:610][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.31-13.27.58:610][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:610][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.31-13.27.58:610][  0]LogPakFile: OnPakFileMounted2Time == 0.000106
+[2022.03.31-13.27.58:611][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.31-13.27.58:611][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:611][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.31-13.27.58:611][  0]LogPakFile: OnPakFileMounted2Time == 0.000111
+[2022.03.31-13.27.58:612][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.03.31-13.27.58:612][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:612][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.03.31-13.27.58:612][  0]LogPakFile: OnPakFileMounted2Time == 0.000114
+[2022.03.31-13.27.58:613][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.03.31-13.27.58:613][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:613][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.03.31-13.27.58:613][  0]LogPakFile: OnPakFileMounted2Time == 0.000130
+[2022.03.31-13.27.58:615][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.31-13.27.58:615][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:615][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.31-13.27.58:615][  0]LogPakFile: OnPakFileMounted2Time == 0.000140
+[2022.03.31-13.27.58:616][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.31-13.27.58:616][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:616][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.31-13.27.58:616][  0]LogPakFile: OnPakFileMounted2Time == 0.000148
+[2022.03.31-13.27.58:618][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.31-13.27.58:618][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:618][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.31-13.27.58:618][  0]LogPakFile: OnPakFileMounted2Time == 0.000160
+[2022.03.31-13.27.58:619][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.03.31-13.27.58:619][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:619][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.03.31-13.27.58:619][  0]LogPakFile: OnPakFileMounted2Time == 0.000165
+[2022.03.31-13.27.58:621][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.31-13.27.58:621][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:621][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.31-13.27.58:621][  0]LogPakFile: OnPakFileMounted2Time == 0.000189
+[2022.03.31-13.27.58:623][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.03.31-13.27.58:623][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:623][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.03.31-13.27.58:623][  0]LogPakFile: OnPakFileMounted2Time == 0.000196
+[2022.03.31-13.27.58:624][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.31-13.27.58:624][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:624][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.31-13.27.58:624][  0]LogPakFile: OnPakFileMounted2Time == 0.000202
+[2022.03.31-13.27.58:625][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.31-13.27.58:625][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:625][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.31-13.27.58:625][  0]LogPakFile: OnPakFileMounted2Time == 0.000204
+[2022.03.31-13.27.58:626][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.31-13.27.58:626][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:626][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.31-13.27.58:626][  0]LogPakFile: OnPakFileMounted2Time == 0.000209
+[2022.03.31-13.27.58:627][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.03.31-13.27.58:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.03.31-13.27.58:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000213
+[2022.03.31-13.27.58:627][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.03.31-13.27.58:627][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:627][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.03.31-13.27.58:627][  0]LogPakFile: OnPakFileMounted2Time == 0.000215
+[2022.03.31-13.27.58:629][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.03.31-13.27.58:629][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:629][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.03.31-13.27.58:629][  0]LogPakFile: OnPakFileMounted2Time == 0.000220
+[2022.03.31-13.27.58:630][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.03.31-13.27.58:630][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:630][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.03.31-13.27.58:630][  0]LogPakFile: OnPakFileMounted2Time == 0.000242
+[2022.03.31-13.27.58:633][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.03.31-13.27.58:633][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:633][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.03.31-13.27.58:633][  0]LogPakFile: OnPakFileMounted2Time == 0.000255
+[2022.03.31-13.27.58:634][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.03.31-13.27.58:635][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.03.31-13.27.58:635][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.03.31-13.27.58:635][  0]LogPakFile: OnPakFileMounted2Time == 0.000272
+[2022.03.31-13.27.58:694][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.31-13.27.58:695][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.03.31-13.27.58:853][  0]LogSlate: Took 0.000867 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.03.31-13.27.58:873][  0]LogSlate: Took 0.000598 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.03.31-13.27.58:994][  0]LogRenderer: Reallocating scene render targets to support 864x432 Format 10 NumSamples 1 (Frame:1).
+[2022.03.31-13.27.59:330][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.03.31-13.27.59:330][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.03.31-13.27.59:330][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.03.31-13.27.59:330][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.03.31-13.27.59:330][  0]LogLoad: (Engine Initialization) Total time: 42.49 seconds
+[2022.03.31-13.27.59:330][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.03.31-13.27.59:330][  0]LogInit: First time updating LLM stats...
+[2022.03.31-13.27.59:414][  0]LogAssetRegistry: Asset discovery search completed in 39.8084 seconds
+[2022.03.31-13.27.59:418][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000007 seconds (updated 0 objects)
+[2022.03.31-13.27.59:562][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.03.31-13.27.59:746][  2]LogSlate: Took 0.000359 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.31-13.28.06:376][293]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2022.03.31-13.28.07:855][347]Cmd: DELETE
+[2022.03.31-13.28.07:856][347]Cmd: ACTOR DELETE
+[2022.03.31-13.28.07:879][347]LogEditorActor: Deleted Actor: StaticMeshActor
+[2022.03.31-13.28.07:902][347]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2022.03.31-13.28.07:904][347]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2022.03.31-13.28.08:870][392]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2022.03.31-13.28.09:073][397]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (SkySphereMesh)
+[2022.03.31-13.28.12:998][567]Cmd: TRANSACTION UNDO
+[2022.03.31-13.28.12:998][567]LogEditorTransaction: Undo Clicking on Components
+[2022.03.31-13.28.13:057][567]LogSlate: Took 0.000710 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.03.31-13.28.13:573][576]Cmd: TRANSACTION UNDO
+[2022.03.31-13.28.13:573][576]LogEditorTransaction: Undo Pinchar en los actores
+[2022.03.31-13.28.14:263][604]Cmd: TRANSACTION UNDO
+[2022.03.31-13.28.14:263][604]LogEditorTransaction: Undo Eliminar actores
+[2022.03.31-13.28.15:135][637]Cmd: TRANSACTION UNDO
+[2022.03.31-13.28.15:135][637]LogEditorTransaction: Undo Pinchar en los actores
+[2022.03.31-13.28.20:933][867]LogContentBrowser: Deferred new asset folder creation: Carpeta nueva
+[2022.03.31-13.28.20:968][867]LogContentBrowser: Creating deferred item: Carpeta nueva
+[2022.03.31-13.28.31:959][379]LogContentBrowser: Attempting asset rename: Carpeta nueva -> PROYECTO_FINAL
+[2022.03.31-13.28.31:960][379]LogContentBrowser: End creating deferred item Carpeta nueva
+[2022.03.31-13.28.39:222][628]LogSlate: Window 'Seleccionador de color' being destroyed
+[2022.03.31-13.28.42:875][766]LogContentBrowser: Deferred new asset file creation: NewWorld
+[2022.03.31-13.28.42:904][766]LogContentBrowser: Creating deferred item: NewWorld
+[2022.03.31-13.28.50:541][159]LogContentBrowser: Attempting asset rename: NewWorld -> MI_PORYECTO
+[2022.03.31-13.28.50:552][159]LogContentBrowser: End creating deferred item NewWorld
+[2022.03.31-13.28.52:303][231]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2022.03.31-13.28.54:366][231]LogSlate: Window 'Guardar contenido' being destroyed
+[2022.03.31-13.28.54:492][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2022.03.31-13.28.54:509][231]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/MI_PORYECTO06D69F994B6CA87180787387E305FEFC.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/PROYECTO_FINAL/MI_PORYECTO.umap'
+[2022.03.31-13.28.54:513][231]LogFileHelpers: Saving map 'MI_PORYECTO' took 0.033
+[2022.03.31-13.28.54:607][231]LogAssetEditorSubsystem: Opening Asset editor for World /Game/PROYECTO_FINAL/MI_PORYECTO.MI_PORYECTO
+[2022.03.31-13.28.54:609][231]Cmd: MAP LOAD FILE="../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/PROYECTO_FINAL/MI_PORYECTO.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.03.31-13.28.54:609][231]LightingResults: New page: Diseñar la iluminación
+[2022.03.31-13.28.54:610][231]LoadErrors: New page: Cargando mapa: MI_PORYECTO.umap
+[2022.03.31-13.28.54:618][231]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.28.54:619][231]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.28.54:619][231]MapCheck: New page: Revisión del mapa
+[2022.03.31-13.28.54:619][231]LightingResults: New page: Diseñar la iluminación
+[2022.03.31-13.28.54:629][231]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.03.31-13.28.54:634][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2022.03.31-13.28.54:635][231]LogAudio: Display: Audio Device (ID: 1) registered with world 'MI_PORYECTO'.
+[2022.03.31-13.28.54:750][231]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.03.31-13.28.54:751][231]LogAIModule: Creating AISystem for world MI_PORYECTO
+[2022.03.31-13.28.54:761][231]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2022.03.31-13.28.54:769][231]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.03.31-13.28.54:769][231]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,28ms to complete.
+[2022.03.31-13.28.54:770][231]LogFileHelpers: Loading map 'MI_PORYECTO' took 0.161
+[2022.03.31-13.28.54:822][231]AssetCheck: New page: Asset Save: MI_PORYECTO
+[2022.03.31-13.28.54:822][231]LogContentValidation: Display: Validating World /Game/PROYECTO_FINAL/MI_PORYECTO.MI_PORYECTO
+[2022.03.31-13.29.32:438][922]LogTexture: Display: Building textures: Texture2D_2 (G8, 128X128)
+[2022.03.31-13.29.32:577][922]LogSlate: Took 0.000523 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.03.31-13.29.47:729][506]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 256X256)
+[2022.03.31-13.30.46:122][630]LogContentBrowser: Deferred new asset folder creation: Carpeta nueva
+[2022.03.31-13.30.46:164][630]LogContentBrowser: Creating deferred item: Carpeta nueva
+[2022.03.31-13.30.50:186][781]LogContentBrowser: Attempting asset rename: Carpeta nueva -> MIS_ASSETS
+[2022.03.31-13.30.50:189][781]LogContentBrowser: End creating deferred item Carpeta nueva
+[2022.03.31-13.33.16:799][615]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\MASTER\Downloads\Standing Idle.fbx)
+[2022.03.31-13.33.16:921][615]LogFbx: Loading FBX Scene from C:\Users\MASTER\Downloads\Standing Idle.fbx
+[2022.03.31-13.33.17:018][615]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.31-13.33.37:455][615]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2022.03.31-13.33.37:503][615]LogFbx: Warning: Not valid bind pose for Pose (skinCluster2) - Node Ch09 : The relative matrices do not match
+[2022.03.31-13.33.37:503][615]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2022.03.31-13.33.37:504][615]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Ch09
+[2022.03.31-13.33.37:504][615]LogFbx: Warning: Recreating bind pose succeeded.
+[2022.03.31-13.33.37:511][615]LogMaterial: Display: Material /Game/PROYECTO_FINAL/MIS_ASSETS/Ch09_body.Ch09_body needed to have new flag set bUsedWithSkeletalMesh !
+[2022.03.31-13.33.37:513][615]LogMaterial: Display: Missing cached shader map for material Ch09_body, compiling. 
+[2022.03.31-13.33.38:022][615]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2022.03.31-13.33.38:022][615]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2022.03.31-13.33.38:022][615]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2022.03.31-13.33.38:022][615]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.03.31-13.33.38:022][615]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.03.31-13.33.38:023][615]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.03.31-13.33.38:023][615]LogTexture: Display: Building textures: Ch09_1001_Diffuse (AutoDXT, 4096X4096)
+[2022.03.31-13.33.39:947][615]LogTexture: Display: Building textures: Ch09_1001_Specular (AutoDXT, 4096X4096)
+[2022.03.31-13.33.41:131][615]LogTexture: Display: Building textures: Ch09_1001_Glossiness (AutoDXT, 4096X4096)
+[2022.03.31-13.33.43:315][615]LogTexture: Display: Building textures: Ch09_1001_Normal (BC5, 4096X4096)
+[2022.03.31-13.33.43:954][615]LogMaterial: Display: Missing cached shader map for material Ch09_body, compiling. 
+[2022.03.31-13.33.43:969][615]LogFbx: Triangulating skeletal mesh Ch09
+[2022.03.31-13.33.45:351][615]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2022.03.31-13.33.45:351][615]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2022.03.31-13.33.45:351][615]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2022.03.31-13.33.45:351][615]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.03.31-13.33.45:352][615]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.03.31-13.33.45:352][615]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.03.31-13.33.45:355][615]LogFbx: Warning: Bones digested - 65  Depth of hierarchy - 12
+[2022.03.31-13.33.46:584][615]LogSkeletalMesh: Section 0: Material=0, 31292 triangles
+[2022.03.31-13.33.46:684][615]LogSkeletalMesh: Building Skeletal Mesh Standing_Idle...
+[2022.03.31-13.33.47:325][615]LogSkeletalMesh: Section 0: Material=0, 31292 triangles
+[2022.03.31-13.33.47:375][615]LogSkeletalMesh: Built Skeletal Mesh [0.69s] /Game/PROYECTO_FINAL/MIS_ASSETS/Standing_Idle.Standing_Idle
+[2022.03.31-13.33.47:410][615]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.33.47:410][615]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(0) Hips
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(1) Spine
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(2) Spine1
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(3) Spine2
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(4) Neck
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(5) Head
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(8) LeftArm
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(10) LeftHand
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(31) RightShoulder
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(32) RightArm
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(33) RightForeArm
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(34) RightHand
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(56) LeftLeg
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(57) LeftFoot
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(61) RightLeg
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(62) RightFoot
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(63) RightToeBase
+[2022.03.31-13.33.47:419][615]LogFbx: SortedLinks :(64) RightToe_End
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(0) Hips
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(1) Spine
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(2) Spine1
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(3) Spine2
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(4) Neck
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(5) Head
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(6) HeadTop_End
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(7) LeftShoulder
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(8) LeftArm
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(9) LeftForeArm
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(10) LeftHand
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(11) LeftHandThumb1
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(12) LeftHandThumb2
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(13) LeftHandThumb3
+[2022.03.31-13.33.47:421][615]LogFbx: SortedLinks :(14) LeftHandThumb4
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(15) LeftHandIndex1
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(16) LeftHandIndex2
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(17) LeftHandIndex3
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(18) LeftHandIndex4
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(19) LeftHandMiddle1
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(20) LeftHandMiddle2
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(21) LeftHandMiddle3
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(22) LeftHandMiddle4
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(23) LeftHandRing1
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(24) LeftHandRing2
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(25) LeftHandRing3
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(26) LeftHandRing4
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(27) LeftHandPinky1
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(28) LeftHandPinky2
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(29) LeftHandPinky3
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(30) LeftHandPinky4
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(31) RightShoulder
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(32) RightArm
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(33) RightForeArm
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(34) RightHand
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(35) RightHandThumb1
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(36) RightHandThumb2
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(37) RightHandThumb3
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(38) RightHandThumb4
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(39) RightHandIndex1
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(40) RightHandIndex2
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(41) RightHandIndex3
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(42) RightHandIndex4
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(43) RightHandMiddle1
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(44) RightHandMiddle2
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(45) RightHandMiddle3
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(46) RightHandMiddle4
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(47) RightHandRing1
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(48) RightHandRing2
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(49) RightHandRing3
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(50) RightHandRing4
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(51) RightHandPinky1
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(52) RightHandPinky2
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(53) RightHandPinky3
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(54) RightHandPinky4
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(55) LeftUpLeg
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(56) LeftLeg
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(57) LeftFoot
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(58) LeftToeBase
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(59) LeftToe_End
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(60) RightUpLeg
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(61) RightLeg
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(62) RightFoot
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(63) RightToeBase
+[2022.03.31-13.33.47:422][615]LogFbx: SortedLinks :(64) RightToe_End
+[2022.03.31-13.33.47:426][615]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.33.47:427][615]LogFbx: Parsing AnimStack mixamo.com
+[2022.03.31-13.33.48:048][615]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/MIS_ASSETS/Standing_Idle_Anim.Standing_Idle_Anim
+[2022.03.31-13.33.48:084][615]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.03.31-13.33.48:084][615]FBXImport: Warning: La pila de animación Take 001 no contiene ninguna clave válida. Intente opciones de tiempo distintas al importar. 
+[2022.03.31-13.33.48:244][615]LogSlate: Took 0.006181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.03.31-13.34.10:184][393]LogSlate: Window 'Registro del mensaje' being destroyed
+[2022.03.31-13.34.10:194][393]LogSlate: Window 'Registro del mensaje' being destroyed
+[2022.03.31-13.34.36:969][544]LogContentBrowser: Attempting asset rename: MIS_ASSETS -> TIMMY
+[2022.03.31-13.34.37:005][544]LogMetaData: Removing '/Game/PROYECTO_FINAL/TIMMY/Standing_Idle.Standing_Idle' ref from Metadata '/Game/PROYECTO_FINAL/MIS_ASSETS/Standing_Idle.PackageMetaData'
+[2022.03.31-13.34.37:018][544]LogMetaData: Removing '/Game/PROYECTO_FINAL/TIMMY/Standing_Idle_Skeleton.Standing_Idle_Skeleton' ref from Metadata '/Game/PROYECTO_FINAL/MIS_ASSETS/Standing_Idle_Skeleton.PackageMetaData'
+[2022.03.31-13.34.37:022][544]LogMetaData: Removing '/Game/PROYECTO_FINAL/TIMMY/Standing_Idle_Anim.Standing_Idle_Anim' ref from Metadata '/Game/PROYECTO_FINAL/MIS_ASSETS/Standing_Idle_Anim.PackageMetaData'
+[2022.03.31-13.34.37:129][544]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Standing_Idle291C3F904AB163DC1DD7A0AB888E13DF.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/PROYECTO_FINAL/TIMMY/Standing_Idle.uasset'
+[2022.03.31-13.34.37:145][544]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Ch09_body125B1A9B4DB5AFD0A98C07B53AF17B8D.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/PROYECTO_FINAL/TIMMY/Ch09_body.uasset'
+[2022.03.31-13.34.37:883][544]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Ch09_1001_Diffuse37D58D6B4FF5825D416843B07A219C54.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/PROYECTO_FINAL/TIMMY/Ch09_1001_Diffuse.uasset'
+[2022.03.31-13.34.38:140][544]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Ch09_1001_Specular1A9400874F27B6D6048186BC84A3ED80.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/PROYECTO_FINAL/TIMMY/Ch09_1001_Specular.uasset'
+[2022.03.31-13.34.38:380][544]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Ch09_1001_GlossinessDA14C27E4B6F79CB9F5C6296B4D74172.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/PROYECTO_FINAL/TIMMY/Ch09_1001_Glossiness.uasset'
+[2022.03.31-13.34.39:457][544]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Ch09_1001_NormalFF8D577B49F9FEABACDEE6ADDA7F20CF.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/PROYECTO_FINAL/TIMMY/Ch09_1001_Normal.uasset'
+[2022.03.31-13.34.39:459][544]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Standing_Idle_Skeleton1EE21F504D9649D94EC7D7B39D18C236.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/PROYECTO_FINAL/TIMMY/Standing_Idle_Skeleton.uasset'
+[2022.03.31-13.34.39:499][544]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Standing_Idle_PhysicsAssetE989C3CC49568F0CE4A4F3B19A1580A7.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/PROYECTO_FINAL/TIMMY/Standing_Idle_PhysicsAsset.uasset'
+[2022.03.31-13.34.39:553][544]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Standing_Idle_Anim016A42534F6CC223792121B0DE161AB3.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Content/PROYECTO_FINAL/TIMMY/Standing_Idle_Anim.uasset'
+[2022.03.31-13.34.39:661][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2022.03.31-13.34.39:671][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2022.03.31-13.34.39:676][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.31-13.34.39:680][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.30ms
+[2022.03.31-13.34.39:685][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.03.31-13.34.39:688][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.31-13.34.39:693][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2022.03.31-13.34.39:697][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2022.03.31-13.34.39:701][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2022.03.31-13.34.39:719][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2022.03.31-13.34.39:724][544]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2022.03.31-13.34.39:752][544]AssetCheck: New page: Asset Save: multiple assets
+[2022.03.31-13.34.39:752][544]LogContentValidation: Display: Validating SkeletalMesh /Game/PROYECTO_FINAL/TIMMY/Standing_Idle.Standing_Idle
+[2022.03.31-13.34.39:752][544]LogContentValidation: Display: Validating Material /Game/PROYECTO_FINAL/TIMMY/Ch09_body.Ch09_body
+[2022.03.31-13.34.39:752][544]LogContentValidation: Display: Validating Texture2D /Game/PROYECTO_FINAL/TIMMY/Ch09_1001_Diffuse.Ch09_1001_Diffuse
+[2022.03.31-13.34.39:752][544]LogContentValidation: Display: Validating Texture2D /Game/PROYECTO_FINAL/TIMMY/Ch09_1001_Specular.Ch09_1001_Specular
+[2022.03.31-13.34.39:752][544]LogContentValidation: Display: Validating Texture2D /Game/PROYECTO_FINAL/TIMMY/Ch09_1001_Glossiness.Ch09_1001_Glossiness
+[2022.03.31-13.34.39:752][544]LogContentValidation: Display: Validating Texture2D /Game/PROYECTO_FINAL/TIMMY/Ch09_1001_Normal.Ch09_1001_Normal
+[2022.03.31-13.34.39:752][544]LogContentValidation: Display: Validating Skeleton /Game/PROYECTO_FINAL/TIMMY/Standing_Idle_Skeleton.Standing_Idle_Skeleton
+[2022.03.31-13.34.39:752][544]LogContentValidation: Display: Validating PhysicsAsset /Game/PROYECTO_FINAL/TIMMY/Standing_Idle_PhysicsAsset.Standing_Idle_PhysicsAsset
+[2022.03.31-13.34.39:752][544]LogContentValidation: Display: Validating AnimSequence /Game/PROYECTO_FINAL/TIMMY/Standing_Idle_Anim.Standing_Idle_Anim
+[2022.03.31-13.34.44:877][968]LogContentBrowser: Deferred new asset folder creation: Carpeta nueva
+[2022.03.31-13.34.44:902][968]LogContentBrowser: Creating deferred item: Carpeta nueva
+[2022.03.31-13.34.48:808][368]LogContentBrowser: Attempting asset rename: Carpeta nueva -> ASH
+[2022.03.31-13.34.48:808][368]LogContentBrowser: End creating deferred item Carpeta nueva
+[2022.03.31-13.35.11:508][958]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\MASTER\Downloads\mimikyu.fbx)
+[2022.03.31-13.35.11:516][958]LogFbx: Loading FBX Scene from C:\Users\MASTER\Downloads\mimikyu.fbx
+[2022.03.31-13.35.11:524][958]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.31-13.35.27:272][958]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2022.03.31-13.35.27:306][958]LogFbxMaterialImport: Display: Unable to find Texture file C:\Users\Elik\Desktop\mimigma.png
+[2022.03.31-13.35.27:307][958]LogMaterial: Display: Missing cached shader map for material Mimikyu1, compiling. 
+[2022.03.31-13.35.27:318][958]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 12
+[2022.03.31-13.35.27:318][958]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 10
+[2022.03.31-13.35.27:318][958]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 8
+[2022.03.31-13.35.27:318][958]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 6
+[2022.03.31-13.35.27:318][958]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 4
+[2022.03.31-13.35.27:318][958]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 2
+[2022.03.31-13.35.27:318][958]LogFbxMaterialImport: Display: Unable to find Texture file D:\1_Mein Refugium\Mimigma\Mimikyu\images\mimikkyu_eye_col.png
+[2022.03.31-13.35.27:335][958]LogMaterial: Display: Missing cached shader map for material Eyes, compiling. 
+[2022.03.31-13.35.27:347][958]LogFbx: Display: Triangulating static mesh Mimikyu
+[2022.03.31-13.35.27:486][958]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2022.03.31-13.35.27:486][958]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 10
+[2022.03.31-13.35.27:487][958]LogStaticMesh: Generando la malla estática mimikyu...
+[2022.03.31-13.35.27:708][958]LogStaticMesh: Built static mesh [0.22s] /Game/PROYECTO_FINAL/ASH/mimikyu.mimikyu
+[2022.03.31-13.35.27:745][958]FBXImport: FBX Scene Loading: Found texture name clash, name clash can be wrongly reassign at reimport , texture 'mimikkyu_eye_col' was renamed 'mimikkyu_eye_col_ncl1_1' 
+[2022.03.31-13.35.27:745][958]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.03.31-13.35.30:150][  6]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 8
+[2022.03.31-13.35.31:014][ 22]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 6
+[2022.03.31-13.35.31:066][ 23]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.03.31-13.35.31:263][ 27]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 4
+[2022.03.31-13.35.31:999][ 44]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 3
+[2022.03.31-13.35.31:999][ 44]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 2
+[2022.03.31-13.35.32:070][ 46]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 1
+[2022.03.31-13.35.32:967][ 72]LogSlate: Window 'Registro del mensaje' being destroyed
+[2022.03.31-13.35.32:987][ 72]LogSlate: Window 'Registro del mensaje' being destroyed
+[2022.03.31-13.35.42:382][694]LogContentBrowser: Deferred new asset folder creation: Carpeta nueva
+[2022.03.31-13.35.42:389][694]LogContentBrowser: Creating deferred item: Carpeta nueva
+[2022.03.31-13.35.47:105][151]LogContentBrowser: Attempting asset rename: Carpeta nueva -> IVYSAUR
+[2022.03.31-13.35.47:105][151]LogContentBrowser: End creating deferred item Carpeta nueva
+[2022.03.31-13.36.06:453][612]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\MASTER\Downloads\Ivysaur_Fbx\Pokemon.fbx)
+[2022.03.31-13.36.06:466][612]LogFbx: Loading FBX Scene from C:\Users\MASTER\Downloads\Ivysaur_Fbx\Pokemon.fbx
+[2022.03.31-13.36.06:502][612]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.31-13.36.13:590][612]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2022.03.31-13.36.13:610][612]LogMaterial: Display: Material /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon needed to have new flag set bUsedWithSkeletalMesh !
+[2022.03.31-13.36.13:612][612]LogMaterial: Display: Missing cached shader map for material Pokemon, compiling. 
+[2022.03.31-13.36.13:627][612]LogMaterial: Display: Missing cached shader map for material Pokemon, compiling. 
+[2022.03.31-13.36.13:639][612]LogFbx: Triangulating skeletal mesh Ivysaur_3_low
+[2022.03.31-13.36.13:653][612]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 24
+[2022.03.31-13.36.13:653][612]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2022.03.31-13.36.13:653][612]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 16
+[2022.03.31-13.36.13:653][612]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 12
+[2022.03.31-13.36.13:653][612]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 8
+[2022.03.31-13.36.13:653][612]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 4
+[2022.03.31-13.36.13:653][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.13:668][612]LogSkeletalMesh: Section 0: Material=0, 512 triangles
+[2022.03.31-13.36.13:676][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_3_low...
+[2022.03.31-13.36.13:695][612]LogSkeletalMesh: Section 0: Material=0, 512 triangles
+[2022.03.31-13.36.13:698][612]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_3_low
+[2022.03.31-13.36.13:710][612]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.13:710][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.13:712][612]LogFbx: SortedLinks :(0) Ivysaur_3_low
+[2022.03.31-13.36.13:713][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.13:742][612]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_Anim.Pokemon_Ivysaur_3_low_Anim
+[2022.03.31-13.36.13:744][612]LogMaterial: Display: Material /Game/PROYECTO_FINAL/IVYSAUR/Outline.Outline needed to have new flag set bUsedWithSkeletalMesh !
+[2022.03.31-13.36.13:746][612]LogMaterial: Display: Missing cached shader map for material Outline, compiling. 
+[2022.03.31-13.36.13:767][612]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 24
+[2022.03.31-13.36.13:767][612]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 20
+[2022.03.31-13.36.13:769][612]LogMaterial: Display: Missing cached shader map for material Outline, compiling. 
+[2022.03.31-13.36.13:793][612]LogFbx: Triangulating skeletal mesh Ivysaur_4_low_outline
+[2022.03.31-13.36.14:088][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.14:600][612]LogSkeletalMesh: Section 0: Material=0, 9256 triangles
+[2022.03.31-13.36.14:609][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_4_low_outline...
+[2022.03.31-13.36.15:069][612]LogSkeletalMesh: Section 0: Material=0, 9256 triangles
+[2022.03.31-13.36.15:107][612]LogSkeletalMesh: Built Skeletal Mesh [0.50s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_4_low_outline
+[2022.03.31-13.36.15:121][612]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.15:122][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.15:124][612]LogFbx: SortedLinks :(0) Ivysaur_4_low_outline
+[2022.03.31-13.36.15:124][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.15:131][612]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_outline_Anim.Pokemon_Ivysaur_4_low_outline_Anim
+[2022.03.31-13.36.15:152][612]LogFbx: Triangulating skeletal mesh Ivysaur_8_low
+[2022.03.31-13.36.15:184][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.15:214][612]LogSkeletalMesh: Section 0: Material=0, 816 triangles
+[2022.03.31-13.36.15:222][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_8_low...
+[2022.03.31-13.36.15:253][612]LogSkeletalMesh: Section 0: Material=0, 816 triangles
+[2022.03.31-13.36.15:255][612]LogSkeletalMesh: Built Skeletal Mesh [0.03s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_8_low
+[2022.03.31-13.36.15:269][612]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.15:269][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.15:272][612]LogFbx: SortedLinks :(0) Ivysaur_8_low
+[2022.03.31-13.36.15:273][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.15:288][612]LogFbx: Triangulating skeletal mesh Ivysaur_4_low
+[2022.03.31-13.36.15:571][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.15:885][612]LogSkeletalMesh: Section 0: Material=0, 6224 triangles
+[2022.03.31-13.36.15:894][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_4_low...
+[2022.03.31-13.36.16:150][612]LogSkeletalMesh: Section 0: Material=0, 6224 triangles
+[2022.03.31-13.36.16:169][612]LogSkeletalMesh: Built Skeletal Mesh [0.28s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_4_low
+[2022.03.31-13.36.16:183][612]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.16:183][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.16:185][612]LogFbx: SortedLinks :(0) Ivysaur_4_low
+[2022.03.31-13.36.16:186][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.16:193][612]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_Anim.Pokemon_Ivysaur_4_low_Anim
+[2022.03.31-13.36.16:193][612]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_Anim.Pokemon_Ivysaur_8_low_Anim
+[2022.03.31-13.36.16:204][612]LogFbx: Triangulating skeletal mesh Ivysaur_2_low
+[2022.03.31-13.36.16:468][612]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 24
+[2022.03.31-13.36.16:469][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.16:759][612]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 20
+[2022.03.31-13.36.16:823][612]LogSkeletalMesh: Section 0: Material=0, 6384 triangles
+[2022.03.31-13.36.16:830][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_2_low...
+[2022.03.31-13.36.17:051][612]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 17
+[2022.03.31-13.36.17:051][612]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 14
+[2022.03.31-13.36.17:051][612]LogShaderCompilers: Display: Worker (7/9): shaders left to compile 12
+[2022.03.31-13.36.17:115][612]LogSkeletalMesh: Section 0: Material=0, 6384 triangles
+[2022.03.31-13.36.17:147][612]LogSkeletalMesh: Built Skeletal Mesh [0.32s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_2_low
+[2022.03.31-13.36.17:162][612]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.17:162][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.17:166][612]LogFbx: SortedLinks :(0) Ivysaur_2_low
+[2022.03.31-13.36.17:166][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.17:189][612]LogFbx: Triangulating skeletal mesh Ivysaur_3_low_outline
+[2022.03.31-13.36.17:221][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.17:275][612]LogSkeletalMesh: Section 0: Material=0, 892 triangles
+[2022.03.31-13.36.17:284][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_3_low_outline...
+[2022.03.31-13.36.17:328][612]LogSkeletalMesh: Section 0: Material=0, 892 triangles
+[2022.03.31-13.36.17:331][612]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_3_low_outline
+[2022.03.31-13.36.17:343][612]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.17:343][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.17:346][612]LogFbx: SortedLinks :(0) Ivysaur_3_low_outline
+[2022.03.31-13.36.17:347][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.17:361][612]LogFbx: Triangulating skeletal mesh Ivysaur_7_low
+[2022.03.31-13.36.17:587][612]LogShaderCompilers: Display: Worker (6/9): shaders left to compile 10
+[2022.03.31-13.36.17:588][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.17:788][612]LogSkeletalMesh: Section 0: Material=0, 4416 triangles
+[2022.03.31-13.36.17:796][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_7_low...
+[2022.03.31-13.36.17:989][612]LogShaderCompilers: Display: Worker (4/9): shaders left to compile 8
+[2022.03.31-13.36.17:991][612]LogSkeletalMesh: Section 0: Material=0, 4416 triangles
+[2022.03.31-13.36.18:005][612]LogSkeletalMesh: Built Skeletal Mesh [0.21s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_7_low
+[2022.03.31-13.36.18:017][612]LogShaderCompilers: Display: Worker (5/9): shaders left to compile 6
+[2022.03.31-13.36.18:019][612]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.18:019][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.18:022][612]LogFbx: SortedLinks :(0) Ivysaur_7_low
+[2022.03.31-13.36.18:023][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.18:042][612]LogFbx: Triangulating skeletal mesh Ivysaur_7_low_outline
+[2022.03.31-13.36.18:267][612]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 5
+[2022.03.31-13.36.18:269][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.18:427][612]LogSkeletalMesh: Display: /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_7_low_outline ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.03.31-13.36.18:669][612]LogSkeletalMesh: Section 0: Material=0, 6604 triangles
+[2022.03.31-13.36.18:678][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_7_low_outline...
+[2022.03.31-13.36.18:831][612]LogSkeletalMesh: Display: /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_7_low_outline ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.03.31-13.36.18:990][612]LogShaderCompilers: Display: Worker (2/9): shaders left to compile 4
+[2022.03.31-13.36.19:061][612]LogSkeletalMesh: Section 0: Material=0, 6604 triangles
+[2022.03.31-13.36.19:092][612]LogSkeletalMesh: Built Skeletal Mesh [0.42s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_7_low_outline
+[2022.03.31-13.36.19:134][612]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.19:134][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.19:137][612]LogFbx: SortedLinks :(0) Ivysaur_7_low_outline
+[2022.03.31-13.36.19:138][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.19:148][612]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_Anim.Pokemon_Ivysaur_7_low_Anim
+[2022.03.31-13.36.19:148][612]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_outline_Anim.Pokemon_Ivysaur_3_low_outline_Anim
+[2022.03.31-13.36.19:148][612]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_outline_Anim.Pokemon_Ivysaur_7_low_outline_Anim
+[2022.03.31-13.36.19:148][612]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_Anim.Pokemon_Ivysaur_2_low_Anim
+[2022.03.31-13.36.19:161][612]LogFbx: Triangulating skeletal mesh Ivysaur_2_low_outline
+[2022.03.31-13.36.19:426][612]LogShaderCompilers: Display: Worker (3/9): shaders left to compile 3
+[2022.03.31-13.36.19:426][612]LogShaderCompilers: Display: Worker (8/9): shaders left to compile 2
+[2022.03.31-13.36.19:427][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.19:636][612]LogShaderCompilers: Display: Worker (1/9): shaders left to compile 1
+[2022.03.31-13.36.19:700][612]LogSkeletalMesh: Section 0: Material=0, 6751 triangles
+[2022.03.31-13.36.19:708][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_2_low_outline...
+[2022.03.31-13.36.19:904][612]LogSkeletalMesh: Section 0: Material=0, 6751 triangles
+[2022.03.31-13.36.19:915][612]LogSkeletalMesh: Built Skeletal Mesh [0.21s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_2_low_outline
+[2022.03.31-13.36.19:923][612]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.19:924][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.19:925][612]LogFbx: SortedLinks :(0) Ivysaur_2_low_outline
+[2022.03.31-13.36.19:925][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.19:942][612]LogFbx: Triangulating skeletal mesh Ivysaur_6_low_outline
+[2022.03.31-13.36.19:994][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.20:068][612]LogSkeletalMesh: Section 0: Material=0, 2864 triangles
+[2022.03.31-13.36.20:072][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_6_low_outline...
+[2022.03.31-13.36.20:142][612]LogSkeletalMesh: Section 0: Material=0, 2864 triangles
+[2022.03.31-13.36.20:146][612]LogSkeletalMesh: Built Skeletal Mesh [0.07s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_6_low_outline
+[2022.03.31-13.36.20:159][612]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.20:159][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.20:161][612]LogFbx: SortedLinks :(0) Ivysaur_6_low_outline
+[2022.03.31-13.36.20:161][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.20:168][612]LogFbx: Triangulating skeletal mesh Ivysaur_5_low_outline
+[2022.03.31-13.36.20:206][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.20:266][612]LogSkeletalMesh: Section 0: Material=0, 2501 triangles
+[2022.03.31-13.36.20:271][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_5_low_outline...
+[2022.03.31-13.36.20:328][612]LogSkeletalMesh: Section 0: Material=0, 2501 triangles
+[2022.03.31-13.36.20:331][612]LogSkeletalMesh: Built Skeletal Mesh [0.06s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_5_low_outline
+[2022.03.31-13.36.20:334][612]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.20:334][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.20:335][612]LogFbx: SortedLinks :(0) Ivysaur_5_low_outline
+[2022.03.31-13.36.20:335][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.20:345][612]LogFbx: Triangulating skeletal mesh Ivysaur_6_low
+[2022.03.31-13.36.20:396][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.20:448][612]LogSkeletalMesh: Section 0: Material=0, 2688 triangles
+[2022.03.31-13.36.20:454][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_6_low...
+[2022.03.31-13.36.20:502][612]LogSkeletalMesh: Section 0: Material=0, 2688 triangles
+[2022.03.31-13.36.20:505][612]LogSkeletalMesh: Built Skeletal Mesh [0.05s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_6_low
+[2022.03.31-13.36.20:509][612]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.20:509][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.20:510][612]LogFbx: SortedLinks :(0) Ivysaur_6_low
+[2022.03.31-13.36.20:510][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.20:517][612]LogFbx: Triangulating skeletal mesh Ivysaur_8_low_outline
+[2022.03.31-13.36.20:556][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.20:577][612]LogSkeletalMesh: Display: /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_8_low_outline ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.03.31-13.36.20:642][612]LogSkeletalMesh: Section 0: Material=0, 2946 triangles
+[2022.03.31-13.36.20:647][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_8_low_outline...
+[2022.03.31-13.36.20:662][612]LogSkeletalMesh: Display: /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_8_low_outline ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.03.31-13.36.20:721][612]LogSkeletalMesh: Section 0: Material=0, 2946 triangles
+[2022.03.31-13.36.20:725][612]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_8_low_outline
+[2022.03.31-13.36.20:730][612]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.20:730][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.20:731][612]LogFbx: SortedLinks :(0) Ivysaur_8_low_outline
+[2022.03.31-13.36.20:731][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.20:738][612]LogFbx: Triangulating skeletal mesh Ivysaur_5_low
+[2022.03.31-13.36.20:757][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.20:776][612]LogSkeletalMesh: Section 0: Material=0, 1008 triangles
+[2022.03.31-13.36.20:781][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_5_low...
+[2022.03.31-13.36.20:800][612]LogSkeletalMesh: Section 0: Material=0, 1008 triangles
+[2022.03.31-13.36.20:801][612]LogSkeletalMesh: Built Skeletal Mesh [0.02s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_5_low
+[2022.03.31-13.36.20:806][612]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.20:806][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.20:807][612]LogFbx: SortedLinks :(0) Ivysaur_5_low
+[2022.03.31-13.36.20:807][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.20:813][612]LogFbx: Triangulating skeletal mesh Ivysaur_1_low
+[2022.03.31-13.36.20:821][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.20:830][612]LogSkeletalMesh: Section 0: Material=0, 448 triangles
+[2022.03.31-13.36.20:836][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_1_low...
+[2022.03.31-13.36.20:845][612]LogSkeletalMesh: Section 0: Material=0, 448 triangles
+[2022.03.31-13.36.20:845][612]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_1_low
+[2022.03.31-13.36.20:849][612]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.20:849][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.20:850][612]LogFbx: SortedLinks :(0) Ivysaur_1_low
+[2022.03.31-13.36.20:850][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.20:855][612]LogFbx: Triangulating skeletal mesh Ivysaur_1_low_outline
+[2022.03.31-13.36.20:864][612]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-13.36.20:876][612]LogSkeletalMesh: Section 0: Material=0, 504 triangles
+[2022.03.31-13.36.20:881][612]LogSkeletalMesh: Building Skeletal Mesh Pokemon_Ivysaur_1_low_outline...
+[2022.03.31-13.36.20:892][612]LogSkeletalMesh: Section 0: Material=0, 504 triangles
+[2022.03.31-13.36.20:893][612]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/PROYECTO_FINAL/IVYSAUR/Pokemon.Pokemon_Ivysaur_1_low_outline
+[2022.03.31-13.36.20:896][612]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-13.36.20:897][612]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-13.36.20:898][612]LogFbx: SortedLinks :(0) Ivysaur_1_low_outline
+[2022.03.31-13.36.20:898][612]LogFbx: Parsing AnimStack Take 001
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.20:907][612]FBXImport: Warning: No pudo encontrar la posición de enlace. Utilizará el tiempo 0 como posición de enlace. 
+[2022.03.31-13.36.21:043][613]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_outline_Anim.Pokemon_Ivysaur_1_low_outline_Anim
+[2022.03.31-13.36.21:043][613]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_Anim.Pokemon_Ivysaur_1_low_Anim
+[2022.03.31-13.36.21:084][614]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_Anim.Pokemon_Ivysaur_5_low_Anim
+[2022.03.31-13.36.21:084][614]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_outline_Anim.Pokemon_Ivysaur_8_low_outline_Anim
+[2022.03.31-13.36.21:106][615]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_Anim.Pokemon_Ivysaur_6_low_Anim
+[2022.03.31-13.36.21:106][615]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_outline_Anim.Pokemon_Ivysaur_5_low_outline_Anim
+[2022.03.31-13.36.21:388][616]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_outline_Anim.Pokemon_Ivysaur_6_low_outline_Anim
+[2022.03.31-13.36.21:388][616]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_outline_Anim.Pokemon_Ivysaur_2_low_outline_Anim
+[2022.03.31-13.36.24:113][747]LogSlate: Window 'Registro del mensaje' being destroyed
+[2022.03.31-13.36.24:121][747]LogSlate: Window 'Registro del mensaje' being destroyed
+[2022.03.31-13.38.52:467][780]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.03.31-13.38.52:525][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/MI_PORYECTO_Auto18A83503E4A1B8BCA4E14099A29BC6FBA.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/MI_PORYECTO_Auto1.umap'
+[2022.03.31-13.38.52:526][780]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/PROYECTO_FINAL/MI_PORYECTO' took 0.068
+[2022.03.31-13.38.52:526][780]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.068
+[2022.03.31-13.38.52:527][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/ASH/mimikyu] ([1] browsable assets)...
+[2022.03.31-13.38.52:554][780]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/PROYECTO_FINAL/ASH/mimikyu.mimikyu]
+[2022.03.31-13.38.52:554][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/ASH/mimikyu]
+[2022.03.31-13.38.52:568][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/mimikyu_Auto17190F32A435DF4E708CE308391DAAA1F.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/ASH/mimikyu_Auto1.uasset'
+[2022.03.31-13.38.52:569][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_outline_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.52:596][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_outline_PhysicsAsset.Pokemon_Ivysaur_1_low_outline_PhysicsAsset]
+[2022.03.31-13.38.52:596][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_outline_PhysicsAsset]
+[2022.03.31-13.38.52:600][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_1_low_outline_Ph87732A2040289AFD9A9F64964E5526FA.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_outline_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.52:601][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.52:601][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_Skeleton]
+[2022.03.31-13.38.52:602][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_3_low_Skeleton_AC38181864FBDA227F7A443BF93B64D9D.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.52:602][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.52:629][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_PhysicsAsset.Pokemon_Ivysaur_3_low_PhysicsAsset]
+[2022.03.31-13.38.52:629][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_PhysicsAsset]
+[2022.03.31-13.38.52:634][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_3_low_PhysicsAssB94E6CC5453C7AE099E074A45D54EB05.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.52:637][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_outline_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.52:637][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_outline_Skeleton]
+[2022.03.31-13.38.52:638][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_4_low_outline_Sk09C51BA54990CB62A0AE95B347820DFE.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_outline_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.52:638][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_outline_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.52:666][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_outline_PhysicsAsset.Pokemon_Ivysaur_4_low_outline_PhysicsAsset]
+[2022.03.31-13.38.52:666][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_outline_PhysicsAsset]
+[2022.03.31-13.38.52:671][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_4_low_outline_PhC934BE104E367479C0A3CC9A7D8FABF0.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_outline_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.52:672][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.52:672][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_Skeleton]
+[2022.03.31-13.38.52:673][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_8_low_Skeleton_A2D9197A749B9AC10087054AE496C3341.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.52:674][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.52:700][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_PhysicsAsset.Pokemon_Ivysaur_8_low_PhysicsAsset]
+[2022.03.31-13.38.52:700][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_PhysicsAsset]
+[2022.03.31-13.38.52:705][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_8_low_PhysicsAss11A482E241521DC2865683BEAD2CC1EE.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.52:706][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.52:706][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_Skeleton]
+[2022.03.31-13.38.52:707][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_4_low_Skeleton_A7819CF584E042175890972BE31A85C7F.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.52:708][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.52:735][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_PhysicsAsset.Pokemon_Ivysaur_4_low_PhysicsAsset]
+[2022.03.31-13.38.52:735][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_PhysicsAsset]
+[2022.03.31-13.38.52:740][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_4_low_PhysicsAssC380A506427EAC3AFFD2A9B2426CB2F3.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_4_low_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.52:741][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.52:741][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_Skeleton]
+[2022.03.31-13.38.52:742][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_2_low_Skeleton_AEA4922B3426B7F53417C44B8654D3339.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.52:743][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.52:778][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_PhysicsAsset.Pokemon_Ivysaur_2_low_PhysicsAsset]
+[2022.03.31-13.38.52:778][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_PhysicsAsset]
+[2022.03.31-13.38.52:785][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_2_low_PhysicsAssC47CF2E045398AB349C627B3230F87E5.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.52:786][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_outline_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.52:787][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_outline_Skeleton]
+[2022.03.31-13.38.52:788][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_3_low_outline_SkF5BF91FF4F736CBC06C8EFBB135FFF01.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_outline_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.52:789][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_outline_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.52:821][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_outline_PhysicsAsset.Pokemon_Ivysaur_3_low_outline_PhysicsAsset]
+[2022.03.31-13.38.52:821][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_outline_PhysicsAsset]
+[2022.03.31-13.38.52:826][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_3_low_outline_Ph92C8C9284DBE7A5C53C1FAB5696D2BDD.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_3_low_outline_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.52:828][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.52:828][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_Skeleton]
+[2022.03.31-13.38.52:830][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_7_low_Skeleton_A120E2D744A43712F67261C84A7ED1D7F.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.52:832][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.52:861][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_PhysicsAsset.Pokemon_Ivysaur_7_low_PhysicsAsset]
+[2022.03.31-13.38.52:861][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_PhysicsAsset]
+[2022.03.31-13.38.52:868][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_7_low_PhysicsAssDF6AF5104FDAE70303A43789E1212CB6.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.52:869][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_outline_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.52:869][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_outline_Skeleton]
+[2022.03.31-13.38.52:870][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_7_low_outline_SkF4E4AA744A0819522A8F53B57D3A6CE1.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_outline_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.52:872][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_outline_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.52:911][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_outline_PhysicsAsset.Pokemon_Ivysaur_7_low_outline_PhysicsAsset]
+[2022.03.31-13.38.52:911][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_outline_PhysicsAsset]
+[2022.03.31-13.38.52:916][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_7_low_outline_Ph90457B5545EBE7F02FDBC396DEA866D5.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_7_low_outline_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.52:917][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_outline_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.52:917][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_outline_Skeleton]
+[2022.03.31-13.38.52:918][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_2_low_outline_SkD27CAB2948633E6DDE3A22BE2380E86E.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_outline_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.52:919][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_outline_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.52:947][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_outline_PhysicsAsset.Pokemon_Ivysaur_2_low_outline_PhysicsAsset]
+[2022.03.31-13.38.52:947][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_outline_PhysicsAsset]
+[2022.03.31-13.38.52:953][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_2_low_outline_PhE5EE5F4E4F76A40E87845F8CC89CC447.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_2_low_outline_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.52:954][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_outline_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.52:954][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_outline_Skeleton]
+[2022.03.31-13.38.52:955][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_6_low_outline_SkC504C33542227F3389ADB39EC7C17986.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_outline_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.52:955][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_outline_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.52:983][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_outline_PhysicsAsset.Pokemon_Ivysaur_6_low_outline_PhysicsAsset]
+[2022.03.31-13.38.52:983][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_outline_PhysicsAsset]
+[2022.03.31-13.38.52:989][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_6_low_outline_PhCE572C4E40ECB8A4E0C5CBB2EA53204C.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_outline_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.52:990][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_outline_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.52:990][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_outline_Skeleton]
+[2022.03.31-13.38.52:991][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_5_low_outline_Sk2D13D46C49A161922189DC96719F0E00.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_outline_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.52:991][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_outline_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.53:020][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_outline_PhysicsAsset.Pokemon_Ivysaur_5_low_outline_PhysicsAsset]
+[2022.03.31-13.38.53:020][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_outline_PhysicsAsset]
+[2022.03.31-13.38.53:025][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_5_low_outline_Ph53DC82AE4E20DDDD79538D9EB59235F9.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_outline_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.53:026][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.53:026][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_Skeleton]
+[2022.03.31-13.38.53:026][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_6_low_Skeleton_ACBBC9BBA4D1EB94F99B42EB44F9A76EC.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.53:028][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.53:055][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_PhysicsAsset.Pokemon_Ivysaur_6_low_PhysicsAsset]
+[2022.03.31-13.38.53:055][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_PhysicsAsset]
+[2022.03.31-13.38.53:060][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_6_low_PhysicsAss0F4CAC4E450250C3CC16CF8C2D44644B.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_6_low_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.53:061][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_outline_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.53:061][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_outline_Skeleton]
+[2022.03.31-13.38.53:062][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_8_low_outline_SkF9FC428446735DE1FFBA2EAC6E3F729F.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_outline_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.53:063][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_outline_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.53:089][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_outline_PhysicsAsset.Pokemon_Ivysaur_8_low_outline_PhysicsAsset]
+[2022.03.31-13.38.53:089][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_outline_PhysicsAsset]
+[2022.03.31-13.38.53:095][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_8_low_outline_Ph0087123E4594D6C256EBBD8AF4A85D00.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_8_low_outline_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.53:096][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.53:096][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_Skeleton]
+[2022.03.31-13.38.53:097][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_5_low_Skeleton_A394AEA744040534D839740B81193C0E9.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.53:102][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.53:128][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_PhysicsAsset.Pokemon_Ivysaur_5_low_PhysicsAsset]
+[2022.03.31-13.38.53:128][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_PhysicsAsset]
+[2022.03.31-13.38.53:133][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_5_low_PhysicsAss5A16F0154D1842C7EA301E9D4B36C2AE.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_5_low_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.53:135][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.53:135][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_Skeleton]
+[2022.03.31-13.38.53:136][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_1_low_Skeleton_A99D4D5C24E05FAD0219AB5874D5FC0B8.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.53:137][780]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_PhysicsAsset] ([1] browsable assets)...
+[2022.03.31-13.38.53:164][780]OBJ SavePackage:     Rendered thumbnail for [PhysicsAsset /Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_PhysicsAsset.Pokemon_Ivysaur_1_low_PhysicsAsset]
+[2022.03.31-13.38.53:164][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_PhysicsAsset]
+[2022.03.31-13.38.53:169][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_1_low_PhysicsAss05948F3645CD3B47470D19AB56AACCD9.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_PhysicsAsset_Auto1.uasset'
+[2022.03.31-13.38.53:169][780]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_outline_Skeleton] ([1] browsable assets)...
+[2022.03.31-13.38.53:170][780]OBJ SavePackage: Finished generating thumbnails for package [/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_outline_Skeleton]
+[2022.03.31-13.38.53:170][780]LogSavePackage: Moving '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Pokemon_Ivysaur_1_low_outline_Sk634992B24542B17F990F6B83E050639D.tmp' to '../../../../../../Users/MASTER/Desktop/ProyectoFinalUnreal/ProyectoFinal/Saved/Autosaves/Game/PROYECTO_FINAL/IVYSAUR/Pokemon_Ivysaur_1_low_outline_Skeleton_Auto1.uasset'
+[2022.03.31-13.38.53:171][780]LogFileHelpers: Auto-saving content packages took 0.644
+[2022.03.31-13.46.04:849][ 97]LogAssetTools: Warning: Fallo al importar 'C:\Users\MASTER\Downloads\links2\links2\XY_Hawlucha.c4d'. Extensión desconocida 'c4d'.
+[2022.03.31-13.57.36:758][242]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{fd14b03d-64ef-48f3-90df-336ce5e549d6}.
+[2022.03.31-13.57.36:758][242]LogAudioMixer: Resetting audio stream to device id 
+[2022.03.31-13.57.36:945][242]LogAudioMixer: Display: 0: FrontLeft
+[2022.03.31-13.57.36:945][242]LogAudioMixer: Display: 1: FrontRight
+[2022.03.31-14.38.15:760][827]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\MASTER\Downloads\diglett-pokemon\diglett vertex.fbx)
+[2022.03.31-14.38.15:868][827]LogFbx: Loading FBX Scene from C:\Users\MASTER\Downloads\diglett-pokemon\diglett vertex.fbx
+[2022.03.31-14.38.16:570][827]LogFbx: FBX Scene Loaded Succesfully
+[2022.03.31-14.38.22:713][827]LogSlate: Window 'Opciones de importación de FBX' being destroyed
+[2022.03.31-14.38.25:415][827]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-14.38.36:709][827]LogSkeletalMesh: Display: /Game/PROYECTO_FINAL/diglett_vertex.diglett_vertex_Layer_1 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.03.31-14.42.10:449][827]LogSkeletalMesh: Section 0: Material=0, 1440258 triangles
+[2022.03.31-14.42.11:086][827]LogSkeletalMesh: Building Skeletal Mesh diglett_vertex_Layer_1...
+[2022.03.31-14.42.19:400][827]LogSkeletalMesh: Display: /Game/PROYECTO_FINAL/diglett_vertex.diglett_vertex_Layer_1 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.03.31-14.45.53:719][827]LogSkeletalMesh: Section 0: Material=0, 1440258 triangles
+[2022.03.31-14.45.56:999][827]LogSkeletalMesh: Built Skeletal Mesh [225.99s] /Game/PROYECTO_FINAL/diglett_vertex.diglett_vertex_Layer_1
+[2022.03.31-14.46.00:004][827]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_23:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2022.03.31-14.46.00:035][827]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-14.46.00:049][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-14.46.00:717][827]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2022.03.31-14.46.00:718][827]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.03.31-14.46.03:626][827]LogFbx: Warning: Bones digested - 1  Depth of hierarchy - 1
+[2022.03.31-14.46.10:402][827]LogSkeletalMesh: Display: /Game/PROYECTO_FINAL/diglett_vertex.diglett_vertex_Layer_2 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
+[2022.03.31-14.47.20:520][827]LogSkeletalMesh: Section 0: Material=0, 1019854 triangles
+[2022.03.31-14.47.20:720][827]LogSkeletalMesh: Building Skeletal Mesh diglett_vertex_Layer_2...
+[2022.03.31-14.47.24:970][827]LogSkeletalMesh: Display: /Game/PROYECTO_FINAL/diglett_vertex.diglett_vertex_Layer_2 ComputeTangents MikkTSpace function: Compute a zero length normal vector.
